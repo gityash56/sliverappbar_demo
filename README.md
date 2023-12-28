@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Final Output🙂
+
+https://github.com/gityash56/sliverappbar_demo/assets/90525149/49808609-09b1-47dc-83cc-ed7d4236f391
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
