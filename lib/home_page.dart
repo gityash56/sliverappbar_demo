@@ -19,6 +19,7 @@ class HomePage extends StatelessWidget {
             flexibleSpace: FlexibleSpaceBar(
               background: Container(
                 color: Colors.pink,
+                child: FlutterLogo(),
               ),
               title: const Text('S L I V E R A P P B A R'),
             ),
